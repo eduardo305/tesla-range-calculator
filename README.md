@@ -1,2 +1,3 @@
-# tesla-range-calculator
+
+# TeslaRangeCalculator
 Studying Angular for Squaretrade
